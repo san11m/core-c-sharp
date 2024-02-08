@@ -1,0 +1,14 @@
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\bin\Debug\net7.0\Displaying Emails.exe
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\bin\Debug\net7.0\Displaying Emails.deps.json
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\bin\Debug\net7.0\Displaying Emails.runtimeconfig.json
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\bin\Debug\net7.0\Displaying Emails.dll
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\bin\Debug\net7.0\Displaying Emails.pdb
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\obj\Debug\net7.0\Displaying Emails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\obj\Debug\net7.0\Displaying Emails.AssemblyInfoInputs.cache
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\obj\Debug\net7.0\Displaying Emails.AssemblyInfo.cs
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\obj\Debug\net7.0\Displaying Emails.csproj.CoreCompileInputs.cache
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\obj\Debug\net7.0\Displaying Emails.dll
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\obj\Debug\net7.0\refint\Displaying Emails.dll
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\obj\Debug\net7.0\Displaying Emails.pdb
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\obj\Debug\net7.0\Displaying Emails.genruntimeconfig.cache
+D:\Visual Studio C# Code\CSharpProject\Displaying Emails\obj\Debug\net7.0\ref\Displaying Emails.dll
